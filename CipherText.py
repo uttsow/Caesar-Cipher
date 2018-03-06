@@ -1,12 +1,7 @@
-'''
-Uttsow Rahman
-urahman1@binghamton.edu
-LAB: B55, Gregory
-Assignment #10
-'''
+
 
 """
-Modify the Ceasar cipher so that it modifies a file instead of a sentence
+Uttsow Rahman
 
 Output to file:
 writeToFile()
